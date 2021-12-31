@@ -30,7 +30,10 @@
 	},
 	"icon": "icon.png",
 	"galleryBanner": {
-    "color": "#000",
-    "theme": "dark"
-  }
+		"color": "#000",
+		"theme": "dark"
+	},
+	"dependencies": {
+		"vsce": "^2.6.0"
+	}
 }
